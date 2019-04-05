@@ -1,0 +1,1 @@
+Maria Kalimeri gave a workshop on *Writing sharable (R) code. Oh… and sharing it!* on 3.4.2019. This is the repo for her work https://github.com/mariakalimeri/sharable-r-tutorial and the even more awesome tutorial https://mariakalimeri.github.io/sharable-r-tutorial/ explaining all.
